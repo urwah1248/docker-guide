@@ -9,8 +9,10 @@
 3) Type this into your Dockerfile:
 
 <code>
+	
     FROM nginx
-	  COPY .  /usr/share/nginx/html
+	COPY .  /usr/share/nginx/html
+	
 </code>
 	
 
